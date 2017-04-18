@@ -1,0 +1,41 @@
+/*
+Theme Name: Glob Child
+Theme URI: https://www.famethemes.com/themes/glob
+Template: glob
+Author: Jory Schmidt
+Author URI: https://github.com/joryschmidt
+Description: Glob is a flexible, clean, simple responsive WordPress theme, perfect for any news or online magazine website.
+Version: 01.
+License: GNU General Public License v2 or later
+License URI: http://www.gnu.org/licenses/gpl-2.0.html
+Text Domain: glob-child
+Tags: one-column, two-columns, right-sidebar, grid-layout, footer-widgets, blog, news, photography, custom-menu, custom-header, custom-colors, custom-background, featured-images, full-width-template, threaded-comments, translation-ready
+This theme, like WordPress, is licensed under the GPL.
+Use it to make something cool, have fun, and share what you've learned with others.
+Glob is based on Underscores http://underscores.me/, (C) 2012-2015 Automattic, Inc.
+Underscores is distributed under the terms of the GNU GPL v2 or later.
+Normalizing styles have been helped along thanks to the fine work of
+Nicolas Gallagher and Jonathan Neal http://necolas.github.com/normalize.css/
+*/
+
+.content-area {
+  padding-left: 100px;
+}
+
+.sidebar {
+  width: 25%;
+}
+
+.left-articles {
+  width: 48%;
+  float: left;
+}
+
+.right-articles {
+  width: 48%;
+  float: right;
+}
+
+.post-grid {
+  width: 100%;
+}

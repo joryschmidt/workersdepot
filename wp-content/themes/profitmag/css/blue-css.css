@@ -1,0 +1,11 @@
+.header-wrapper #site-navigation{
+   background: #4D5CD2;
+}
+
+.top-header-block{
+	background: #4D5CD2;
+}
+.header-wrapper .menu li{	
+	background:url(images/menu-bg.png) repeat-y scroll right top #4D5CD2;
+	
+}

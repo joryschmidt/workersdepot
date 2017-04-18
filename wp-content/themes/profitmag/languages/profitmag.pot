@@ -1,0 +1,822 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Profitmag\n"
+"POT-Creation-Date: 2017-01-31 11:43+0545\n"
+"PO-Revision-Date: 2017-01-31 11:43+0545\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en_US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.11\n"
+"X-Poedit-Basepath: .\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: 404.php:15
+msgid "Oops! That page can&rsquo;t be found."
+msgstr ""
+
+#: 404.php:19
+msgid "It looks like nothing was found at this location."
+msgstr ""
+
+#: archive.php:41
+#, php-format
+msgid "Author: %s"
+msgstr ""
+
+#: archive.php:44
+#, php-format
+msgid "Day: %s"
+msgstr ""
+
+#: archive.php:47
+#, php-format
+msgid "Month: %s"
+msgstr ""
+
+#: archive.php:50
+#, php-format
+msgid "Year: %s"
+msgstr ""
+
+#: archive.php:53
+msgid "Asides"
+msgstr ""
+
+#: archive.php:56
+msgid "Galleries"
+msgstr ""
+
+#: archive.php:59
+msgid "Images"
+msgstr ""
+
+#: archive.php:62
+msgid "Videos"
+msgstr ""
+
+#: archive.php:65
+msgid "Quotes"
+msgstr ""
+
+#: archive.php:68
+msgid "Links"
+msgstr ""
+
+#: archive.php:71
+msgid "Statuses"
+msgstr ""
+
+#: archive.php:74
+msgid "Audios"
+msgstr ""
+
+#: archive.php:77
+msgid "Chats"
+msgstr ""
+
+#: archive.php:80
+msgid "Archives"
+msgstr ""
+
+#: comments.php:28
+msgid "COMMENTS"
+msgstr ""
+
+#: comments.php:33 comments.php:51
+msgid "Comment navigation"
+msgstr ""
+
+#: comments.php:34 comments.php:52
+msgid "&larr; Older Comments"
+msgstr ""
+
+#: comments.php:35 comments.php:53
+msgid "Newer Comments &rarr;"
+msgstr ""
+
+#: comments.php:63
+msgid "Comments are closed."
+msgstr ""
+
+#: content-none.php:15
+msgid "Nothing Found"
+msgstr ""
+
+#: content-none.php:22
+#, php-format
+msgid ""
+"Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr ""
+
+#: content-none.php:26
+msgid ""
+"Sorry, but nothing matched your search terms. Please try again with some "
+"different keywords."
+msgstr ""
+
+#: content-none.php:31
+msgid ""
+"It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps "
+"searching can help."
+msgstr ""
+
+#: content-page.php:18 content-search.php:42 content-single.php:40
+#: content.php:38
+msgid "Pages:"
+msgstr ""
+
+#: content-page.php:24 content-search.php:75 content-single.php:70
+#: content.php:71
+msgid "Edit"
+msgstr ""
+
+#: content-search.php:38 content.php:34
+msgid "Read More"
+msgstr ""
+
+#: content-search.php:52 content-search.php:62 content-single.php:50
+#: content-single.php:60 content.php:48 content.php:58
+msgid ", "
+msgstr ""
+
+#: content-search.php:56 content-single.php:54 content.php:52
+#, php-format
+msgid "Posted in %1$s"
+msgstr ""
+
+#: content-search.php:66 content-single.php:64 content.php:62
+#, php-format
+msgid "Tagged %1$s"
+msgstr ""
+
+#: content-search.php:72 content.php:68
+msgid "Leave a comment"
+msgstr ""
+
+#: content-search.php:72 content.php:68
+msgid "1 Comment"
+msgstr ""
+
+#: content-search.php:72 content.php:68
+msgid "% Comments"
+msgstr ""
+
+#: content-single.php:26
+msgid "Related Post"
+msgstr ""
+
+#: footer.php:129
+msgid "https://wordpress.org/"
+msgstr ""
+
+#: front-page.php:39
+msgid "Thank you for choosing Profitmag"
+msgstr ""
+
+#: front-page.php:40
+msgid ""
+"You are viewing this message because options of home page have not been "
+"setup.<br/> Please go to \"Appearance >> Customize >> Theme Options >> Home "
+"Page Blocks\" in admin panel to setup options."
+msgstr ""
+
+#: front-page.php:403
+msgid "Media Gallery"
+msgstr ""
+
+#: functions.php:53
+msgid "Primary Menu"
+msgstr ""
+
+#: functions.php:135
+msgid "Home"
+msgstr ""
+
+#: inc/customizer.php:17
+msgid "Theme Options"
+msgstr ""
+
+#: inc/customizer.php:21
+msgid "Option to change general settings"
+msgstr ""
+
+#: inc/customizer.php:27
+msgid "Header"
+msgstr ""
+
+#: inc/customizer.php:33 inc/profitmag-additional.php:10
+msgid "title"
+msgstr ""
+
+#: inc/customizer.php:42
+msgid "Select Image or Site title for logo of the site"
+msgstr ""
+
+#: inc/customizer.php:47
+msgid "Logo (Upload logo if you select this option)"
+msgstr ""
+
+#: inc/customizer.php:48
+msgid ""
+"Site Title (Site title and description will be used if you select this "
+"option)"
+msgstr ""
+
+#: inc/customizer.php:49
+msgid "Disable"
+msgstr ""
+
+#: inc/customizer.php:65
+msgid "Header Ads"
+msgstr ""
+
+#: inc/customizer.php:66
+msgid "Please insert the image of size 790X90px"
+msgstr ""
+
+#: inc/customizer.php:83
+msgid "Check to show home icon in navigation bar"
+msgstr ""
+
+#: inc/customizer.php:91 inc/customizer.php:105 inc/profitmag-additional.php:47
+msgid "Left"
+msgstr ""
+
+#: inc/customizer.php:100
+msgid "Menu Alignment"
+msgstr ""
+
+#: inc/customizer.php:106
+msgid "Right"
+msgstr ""
+
+#: inc/customizer.php:121
+msgid "Check to enable search in navigation bar"
+msgstr ""
+
+#: inc/customizer.php:127
+msgid "Search"
+msgstr ""
+
+#: inc/customizer.php:136
+msgid "Search Placeholder"
+msgstr ""
+
+#: inc/customizer.php:153
+msgid "Check enable latest news"
+msgstr ""
+
+#: inc/customizer.php:161
+msgid "Footer"
+msgstr ""
+
+#: inc/customizer.php:167 inc/profitmag-additional.php:11
+msgid "Copyright 2016. All rights reserved"
+msgstr ""
+
+#: inc/customizer.php:176
+msgid "Copyright Text"
+msgstr ""
+
+#: inc/customizer.php:184
+msgid "General"
+msgstr ""
+
+#: inc/customizer.php:199
+msgid "Check to disable Responsive Layout"
+msgstr ""
+
+#: inc/customizer.php:216
+msgid "Check to hide Posted Date"
+msgstr ""
+
+#: inc/customizer.php:224
+msgid "red"
+msgstr ""
+
+#: inc/customizer.php:233
+msgid "Color Scheme"
+msgstr ""
+
+#: inc/customizer.php:238 inc/profitmag-additional.php:66
+msgid "Red"
+msgstr ""
+
+#: inc/customizer.php:239
+msgid "Blue"
+msgstr ""
+
+#: inc/customizer.php:240
+msgid "Orange"
+msgstr ""
+
+#: inc/customizer.php:246
+msgid "black-css"
+msgstr ""
+
+#: inc/customizer.php:255
+msgid "Header and Footer Color Scheme"
+msgstr ""
+
+#: inc/customizer.php:260
+msgid "Tangerine Yellow"
+msgstr ""
+
+#: inc/customizer.php:261
+msgid "Dark Blue"
+msgstr ""
+
+#: inc/customizer.php:262
+msgid "Dark cyan"
+msgstr ""
+
+#: inc/customizer.php:263 inc/profitmag-additional.php:67
+msgid "Black"
+msgstr ""
+
+#: inc/customizer.php:269 inc/profitmag-additional.php:13
+msgid "Fullwidth"
+msgstr ""
+
+#: inc/customizer.php:278
+msgid "Web Page Layout"
+msgstr ""
+
+#: inc/customizer.php:283
+msgid "Full Width"
+msgstr ""
+
+#: inc/customizer.php:284
+msgid "Boxed"
+msgstr ""
+
+#: inc/customizer.php:299
+msgid "Read More Text in Archive Pages"
+msgstr ""
+
+#: inc/customizer.php:300
+msgid "Change text if you want to use other than \"Read More\""
+msgstr ""
+
+#: inc/customizer.php:308
+msgid "Slider Block"
+msgstr ""
+
+#: inc/customizer.php:323
+msgid "Show Slide From"
+msgstr ""
+
+#: inc/customizer.php:328
+msgid "Single Posts"
+msgstr ""
+
+#: inc/customizer.php:329
+msgid "Category Posts"
+msgstr ""
+
+#: inc/customizer.php:349
+msgid "Select the post for Slider"
+msgstr ""
+
+#: inc/customizer.php:374
+msgid "Select Post"
+msgstr ""
+
+#: inc/customizer.php:399
+msgid "Select Category"
+msgstr ""
+
+#: inc/customizer.php:400
+msgid "Posts of selected category will be used as slider"
+msgstr ""
+
+#: inc/customizer.php:420
+msgid "Show or Hide Slider Controls (Arrows)"
+msgstr ""
+
+#: inc/customizer.php:425
+msgid "Show"
+msgstr ""
+
+#: inc/customizer.php:426
+msgid "Hide"
+msgstr ""
+
+#: inc/customizer.php:441
+msgid "Enable Slider auto Transition?"
+msgstr ""
+
+#: inc/customizer.php:446
+msgid "Yes"
+msgstr ""
+
+#: inc/customizer.php:447
+msgid "No"
+msgstr ""
+
+#: inc/customizer.php:462
+msgid "Enter slider speed"
+msgstr ""
+
+#: inc/customizer.php:483
+msgid "Featured Block Category"
+msgstr ""
+
+#: inc/customizer.php:484
+msgid "Section Beside Slider"
+msgstr ""
+
+#: inc/customizer.php:493
+msgid "Home Page Blocks"
+msgstr ""
+
+#: inc/customizer.php:515
+msgid "Featured Block One Category"
+msgstr ""
+
+#: inc/customizer.php:516
+msgid "Section Below Slider"
+msgstr ""
+
+#: inc/customizer.php:534 inc/customizer.php:574 inc/customizer.php:614
+#: inc/customizer.php:673 inc/customizer.php:714 inc/customizer.php:755
+#: inc/customizer.php:979 inc/customizer.php:1059 inc/customizer.php:1141
+#: inc/customizer.php:1221
+msgid "No. of posts to display"
+msgstr ""
+
+#: inc/customizer.php:555
+msgid "Featured Block Two Category"
+msgstr ""
+
+#: inc/customizer.php:556
+msgid "Section Below Featured Block One"
+msgstr ""
+
+#: inc/customizer.php:595
+msgid "Featured Block Three Category"
+msgstr ""
+
+#: inc/customizer.php:596
+msgid "5 Columns Block"
+msgstr ""
+
+#: inc/customizer.php:632
+msgid "Home Page Ads ( Mid Section )"
+msgstr ""
+
+#: inc/customizer.php:633
+msgid "Please insert the image of size 855X91px"
+msgstr ""
+
+#: inc/customizer.php:654
+msgid "Featured Block Four Category"
+msgstr ""
+
+#: inc/customizer.php:655
+msgid "Excerpt Posts"
+msgstr ""
+
+#: inc/customizer.php:695
+msgid "Featured Block Five Left"
+msgstr ""
+
+#: inc/customizer.php:696
+msgid "Left Column"
+msgstr ""
+
+#: inc/customizer.php:736
+msgid "Featured Block Five Right"
+msgstr ""
+
+#: inc/customizer.php:737
+msgid "Right Column"
+msgstr ""
+
+#: inc/customizer.php:778
+msgid "Select Gallery Images"
+msgstr ""
+
+#: inc/customizer.php:786
+msgid "Social Links"
+msgstr ""
+
+#: inc/customizer.php:801
+msgid "Social icons of header"
+msgstr ""
+
+#: inc/customizer.php:802
+msgid "Check here to disable social icons of header"
+msgstr ""
+
+#: inc/customizer.php:819
+msgid "Social icons of footer"
+msgstr ""
+
+#: inc/customizer.php:820
+msgid "Check here to disable social icons of footer"
+msgstr ""
+
+#: inc/customizer.php:838
+msgid "Facebook"
+msgstr ""
+
+#: inc/customizer.php:842
+msgid "Twitter"
+msgstr ""
+
+#: inc/customizer.php:846
+msgid "Google Plus"
+msgstr ""
+
+#: inc/customizer.php:850
+msgid "Youtube"
+msgstr ""
+
+#: inc/customizer.php:854
+msgid "Pinterest"
+msgstr ""
+
+#: inc/customizer.php:858
+msgid "Flickr"
+msgstr ""
+
+#: inc/customizer.php:862
+msgid "Vimeo"
+msgstr ""
+
+#: inc/customizer.php:866
+msgid "Stumbleupon"
+msgstr ""
+
+#: inc/customizer.php:870
+msgid "Dribble"
+msgstr ""
+
+#: inc/customizer.php:874
+msgid "Tumblr"
+msgstr ""
+
+#: inc/customizer.php:878
+msgid "Linkedin"
+msgstr ""
+
+#: inc/customizer.php:882
+msgid "Sound Cloud"
+msgstr ""
+
+#: inc/customizer.php:886
+msgid "Skype"
+msgstr ""
+
+#: inc/customizer.php:890
+msgid "RSS"
+msgstr ""
+
+#: inc/customizer.php:910
+msgid "Blog Setting"
+msgstr ""
+
+#: inc/customizer.php:929
+msgid "Blog layout"
+msgstr ""
+
+#: inc/customizer.php:943
+msgid "Left Sidebar"
+msgstr ""
+
+#: inc/customizer.php:961 inc/customizer.php:1123
+msgid "Category Post One"
+msgstr ""
+
+#: inc/customizer.php:997 inc/customizer.php:1159
+msgid "Middle Ads"
+msgstr ""
+
+#: inc/customizer.php:998 inc/customizer.php:1160
+msgid "Please insert the image of size 302X222px"
+msgstr ""
+
+#: inc/customizer.php:1020 inc/customizer.php:1182 sidebar-left.php:80
+#: sidebar.php:98
+msgid "Photo Gallery"
+msgstr ""
+
+#: inc/customizer.php:1041 inc/customizer.php:1203
+msgid "Category Post Two"
+msgstr ""
+
+#: inc/customizer.php:1077 inc/customizer.php:1239
+msgid "Bottom Ads One"
+msgstr ""
+
+#: inc/customizer.php:1078 inc/customizer.php:1097 inc/customizer.php:1240
+#: inc/customizer.php:1259
+msgid "Please insert the image of size 302X592px"
+msgstr ""
+
+#: inc/customizer.php:1096 inc/customizer.php:1258
+msgid "Bottom Ads Two"
+msgstr ""
+
+#: inc/customizer.php:1105
+msgid "Right Sidebar"
+msgstr ""
+
+#: inc/customizer.php:1267
+msgid "About Theme"
+msgstr ""
+
+#: inc/customizer.php:1285
+msgid "Important Links"
+msgstr ""
+
+#: inc/customizer.php:1293
+msgid "Reset all settings"
+msgstr ""
+
+#: inc/customizer.php:1308
+msgid "Check to reset all settings"
+msgstr ""
+
+#: inc/profitmag-controls.php:22
+msgid "&mdash; Select &mdash;"
+msgstr ""
+
+#: inc/profitmag-controls.php:124
+msgid "Developed By: "
+msgstr ""
+
+#: inc/profitmag-controls.php:125
+msgid "Rigorous Themes"
+msgstr ""
+
+#: inc/profitmag-controls.php:130
+msgid "Live Preview: "
+msgstr ""
+
+#: inc/profitmag-controls.php:131 inc/profitmag-controls.php:137
+msgid "Click Here"
+msgstr ""
+
+#: inc/profitmag-controls.php:136
+msgid "Rate Theme: "
+msgstr ""
+
+#: inc/profitmag-controls.php:142
+msgid "Profitmag Pro: "
+msgstr ""
+
+#: inc/profitmag-controls.php:143
+msgid "View Demo"
+msgstr ""
+
+#: inc/profitmag-functions.php:14
+msgid "Right Sidebar Top"
+msgstr ""
+
+#: inc/profitmag-functions.php:16 inc/profitmag-functions.php:39
+msgid "Displays items on top of the sidebar."
+msgstr ""
+
+#: inc/profitmag-functions.php:24
+msgid "Right Sidebar Middle"
+msgstr ""
+
+#: inc/profitmag-functions.php:26 inc/profitmag-functions.php:49
+msgid "Displays items on middle of the sidebar."
+msgstr ""
+
+#: inc/profitmag-functions.php:37
+msgid "Left Sidebar Top"
+msgstr ""
+
+#: inc/profitmag-functions.php:47
+msgid "Left Sidebar Middle"
+msgstr ""
+
+#: inc/profitmag-functions.php:57
+msgid "Home Popular Widget Area"
+msgstr ""
+
+#: inc/profitmag-functions.php:59
+msgid "Displays Popular Widgets on home page."
+msgstr ""
+
+#: inc/profitmag-functions.php:68
+msgid "Footer Top Column One"
+msgstr ""
+
+#: inc/profitmag-functions.php:70 inc/profitmag-functions.php:80
+#: inc/profitmag-functions.php:90 inc/profitmag-functions.php:100
+#: inc/profitmag-functions.php:111 inc/profitmag-functions.php:121
+#: inc/profitmag-functions.php:131 inc/profitmag-functions.php:141
+msgid "Displays items on top footer section."
+msgstr ""
+
+#: inc/profitmag-functions.php:78
+msgid "Footer Top Column Two"
+msgstr ""
+
+#: inc/profitmag-functions.php:88
+msgid "Footer Top Column Three"
+msgstr ""
+
+#: inc/profitmag-functions.php:98
+msgid "Footer Top Column Four"
+msgstr ""
+
+#: inc/profitmag-functions.php:109
+msgid "Footer Bottom Column One"
+msgstr ""
+
+#: inc/profitmag-functions.php:119
+msgid "Footer Bottom Column Two"
+msgstr ""
+
+#: inc/profitmag-functions.php:129
+msgid "Footer Bottom Column Three"
+msgstr ""
+
+#: inc/profitmag-functions.php:139
+msgid "Footer Bottom Column Four"
+msgstr ""
+
+#: inc/profitmag-functions.php:541
+msgid "No related post."
+msgstr ""
+
+#: inc/profitmag-functions.php:593
+#, php-format
+msgid "<cite class=\"fn\">%s</cite>"
+msgstr ""
+
+#: inc/profitmag-functions.php:596
+msgid "Your comment is awaiting moderation."
+msgstr ""
+
+#: inc/profitmag-functions.php:604
+#, php-format
+msgid "%1$s at %2$s"
+msgstr ""
+
+#: inc/profitmag-functions.php:604
+msgid "(Edit)"
+msgstr ""
+
+#: inc/profitmag-functions.php:655
+msgid "&laquo;"
+msgstr ""
+
+#: inc/profitmag-functions.php:656
+msgid "&raquo;"
+msgstr ""
+
+#: inc/widgets/widget-popular-posts.php:16
+msgid "Display most popular posts with thumbnail and date of post."
+msgstr ""
+
+#: inc/widgets/widget-popular-posts.php:17
+msgid "Profitmag: Popular Posts"
+msgstr ""
+
+#: inc/widgets/widget-popular-posts.php:24
+msgid "Popular"
+msgstr ""
+
+#: inc/widgets/widget-popular-posts.php:101
+#: inc/widgets/widget-recent-posts.php:98
+msgid "Title:"
+msgstr ""
+
+#: inc/widgets/widget-popular-posts.php:104
+#: inc/widgets/widget-recent-posts.php:101
+msgid "Number of posts to show:"
+msgstr ""
+
+#: inc/widgets/widget-recent-posts.php:16
+msgid "Display recent posts with thumbnail and date of post."
+msgstr ""
+
+#: inc/widgets/widget-recent-posts.php:17
+msgid "Profitmag: Recent Posts"
+msgstr ""
+
+#: inc/widgets/widget-recent-posts.php:24
+msgid "Recent Posts"
+msgstr ""
+
+#: search.php:37
+#, php-format
+msgid "Search Results for: %s"
+msgstr ""
+
+#: sidebar-left.php:63 sidebar-left.php:147 sidebar.php:81 sidebar.php:166
+msgid "View All"
+msgstr ""

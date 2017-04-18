@@ -1,0 +1,178 @@
+a:hover{
+    color:#ca2f1a;
+}
+/*for header part*/
+.ticker-title{
+    background: #ca2f1a;
+}
+.ticker-content a:hover{
+    color: #ca2f1a;
+}
+.header-latest-posts.f-left .latest-post-title{
+    background: #ca2f1a;
+}
+
+a.site-title {
+     color: #ca2f1a;
+}
+
+.socials a:hover{
+    color:#ca2f1a;
+}
+
+.mega-sub-menu .pm-mega-menu-cat-wrap .mega-cat-menu:hover, 
+.mega-sub-menu .mega-active-cat{
+    background: #ca2f1a;
+}
+
+.header-wrapper .menu > li.current-menu-item, 
+.header-wrapper .menu > li.current-menu-parent, 
+.header-wrapper .menu > li.current_page_parent, 
+.header-wrapper .menu > li.current_page_ancestor,
+.home-icon.icon-active{
+    background:#ca2f1a; 
+    border-bottom: 2px solid #ca2f1a;
+}
+
+.home-icon.icon-active{
+    margin-top: -4px;
+    height: 52px;  
+}
+
+.header-wrapper .menu li,
+.header-wrapper #site-navigation{
+    border-bottom: 2px solid #932213;
+}
+
+.header-wrapper .menu li:hover > a{    
+    background: #ca2f1a;
+    color: #fff;
+}
+
+.header-wrapper .mega-sub-menu li.menu-item-inner-mega{   
+    border-bottom: 2px solid #932213;
+}
+
+.header-wrapper .menu > li.current-menu-item > a:before, 
+.header-wrapper .menu > li.current-menu-parent > a:before, 
+.header-wrapper .menu > li.current_page_parent > a:before, 
+.header-wrapper .menu > li.current_page_ancestor > a:before{
+    background: #ca2f1a;
+}
+
+.header-wrapper .search-block input#s, 
+.widget_search input#s{
+    border: 1px solid #ca2f1a;
+}
+
+/*for slider part*/
+.slider-section .slide-date {
+    background: none repeat scroll 0 0 #b22a17;
+}
+
+.slider-section .bx-controls-direction a{
+    background: #b22a17 url(../images/slider-controls.png) no-repeat;
+}
+
+.besides-block .beside-post{
+    border-bottom: 3px solid #ca2f1a;
+}
+
+/*for featured blocks of home page*/
+.bordertitle-red {
+    border-bottom-color: #ca2f1a;
+}
+.featured-post .post-thumb {
+    border-bottom: 3px solid #ca2f1a;
+}
+
+.featured-post-block-coltype .post-thumb-mini {
+    border-bottom: 3px solid #ca2f1a;
+}
+
+/*for sidebar*/
+.secondary-sidebar .widget-title:before, 
+.profitmag_widget_popular_entries .widget-title:before{
+    border-bottom: 7px solid #ca2f1a;
+}
+.view-all-link a{
+    border: 2px solid #ca2f1a;
+    color: #ca2f1a;
+}
+
+.view-all-link a:hover{
+    background:  #ca2f1a;
+}
+#calendar_wrap #wp-calendar #today, 
+#calendar_wrap #wp-calendar #today a {
+    background: none repeat scroll 0 0 #ca2f1a;
+}
+
+/* for share count */
+.profitmag-like-count ul li a {
+    border-bottom-color: #ca2f1a;
+}
+
+.profitmag-like-count ul li a:hover {
+    border-color: #ca2f1a;
+}
+
+.profitmag-like-count ul li a span.fa {
+    color: #ca2f1a;
+}
+
+/*for footer*/
+.red{
+    color: #ca2f1a;
+}
+
+.footer-wrapper a:hover{
+    color:#ca2f1a;
+}
+
+.footer-wrapper .socials a:hover{
+    color: #ca2f1a;
+}
+
+/*for page and posts*/
+.posted-on a:hover,
+.cat-links a:hover,
+.comments-link a:hover,
+.edit-link a:hover{
+    color:#ca2f1a;
+}
+.comment-form .form-submit input, 
+.read-more{
+    border: 2px solid #ca2f1a;
+    color: #ca2f1a;
+}
+.comment-form .form-submit input:hover,.read-more:hover{
+    background-color:#ca2f1a;
+}
+.page-numbers{
+    border: 2px solid #ca2f1a;
+    color: #ca2f1a;
+}
+.page-numbers:hover, .page-numbers.current{
+    background-color: #ca2f1a;
+}
+
+/******************************************************************************************/
+
+@media screen and (max-width:992px){
+    .slicknav_btn.slicknav_open{
+      border: 1px solid #ca2f1a;
+    }
+
+    .slicknav_btn.slicknav_open:before{
+      background: none repeat scroll 0 0 #ca2f1a;
+        box-shadow: 0 6px 0 0 #ca2f1a, 0 12px 0 0 #ca2f1a;
+    }
+
+    .slicknav_menu li:hover > a, 
+    .slicknav_menu li.current-menu-item > a, 
+    .slicknav_menu li.current_page_item a{
+      color: #ca2f1a;
+    }
+
+}

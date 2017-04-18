@@ -20,17 +20,19 @@ if (isset($_SERVER["HTTP_X_FORWARDED_PROTO"]) && $_SERVER["HTTP_X_FORWARDED_PROT
  */
 
 // ** MySQL settings - You can get this info from your web host ** //
+$url = parse_url(getenv('DATABASE_URL') ? getenv('DATABASE_URL') : getenv('CLEARDB_DATABASE_URL'));
+
 /** The name of the database for WordPress */
-define('DB_NAME', 'c9');
+define('DB_NAME', trim($url['path'], '/'));
 
 /** MySQL database username */
-define('DB_USER', substr(getenv('C9_USER'), 0, 16));
+define('DB_USER', $url['user']);
 
 /** MySQL database password */
-define('DB_PASSWORD', '');
+define('DB_PASSWORD', $url['pass']);
 
 /** MySQL hostname */
-define('DB_HOST', getenv('IP'));
+define('DB_HOST', $url['host']);
 
 /** Database Charset to use in creating database tables. */
 define('DB_CHARSET', 'utf8');
@@ -47,14 +49,14 @@ define('DB_COLLATE', '');
  *
  * @since 2.6.0
  */
-define('AUTH_KEY',         'put your unique phrase here');
-define('SECURE_AUTH_KEY',  'put your unique phrase here');
-define('LOGGED_IN_KEY',    'put your unique phrase here');
-define('NONCE_KEY',        'put your unique phrase here');
-define('AUTH_SALT',        'put your unique phrase here');
-define('SECURE_AUTH_SALT', 'put your unique phrase here');
-define('LOGGED_IN_SALT',   'put your unique phrase here');
-define('NONCE_SALT',       'put your unique phrase here');
+define('AUTH_KEY',         'BoX1U1~Prwhsr>iO#4.;!{1U?M3+6Iv4}t%nydJ%<gLbeSr<{(5fg?J`^C4UXhnY');
+define('SECURE_AUTH_KEY',  '+:.vRuSk`EhXqTiG!7^htgVM55IF%P9MgfFZ3m&M%{5MO3{R=2#,)nG@f)G3+=J-');
+define('LOGGED_IN_KEY',    'RG&+Y`,|,V.-)5K;]DuY*A$5+nK9,o83{4GM3V1mZ1|<crBSZ/nWBT|51Fxj*y)|');
+define('NONCE_KEY',        '<n%}oybr4EYF(&vL+RVK}b8q`o-P(0p?cAert5#W+9LJPL|&iE#c^jYlL[Mp<eQx');
+define('AUTH_SALT',        'wp^ce.U|6*NwM04=+R<=bbTAUU~n6cB%U?Dg|W9g8+UOYE?HaV:WW N#[@m=dCI0');
+define('SECURE_AUTH_SALT', '++>HdX-zmp@b !gNK+}P9kS<S,+<GNpj],)i8)*};7X5TafKVu85[gy4{T]3Xn%+');
+define('LOGGED_IN_SALT',   '_NpkW0.Hc%GYPe2kkd3U EPdcvX+~A:r)@=xE<`IVtJK9hcCXH4|h^kJEajF_X#+');
+define('NONCE_SALT',       'X{zPx8710NO+:gS$B2$yN{f nV/f,8;VRHO7I{ZT;vwl42V}Gji</wq]Iaiqi[S]');
 
 /**#@-*/
 

@@ -13,7 +13,7 @@
     "prefer-stable": false,
     "prefer-lowest": false,
     "platform": {
-        "hhvm": "3.2.0"
+        "hhvm": "3.5.1"
     },
     "platform-dev": []
 }

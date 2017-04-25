@@ -1,9 +1,9 @@
-=== Novapress ===
+﻿=== Novapress ===
 Contributors: Ishmael Desjarlais @ Themely.com
 Tags: one-column, two-columns, three-columns, grid-layout, featured-images, custom-menu, right-sidebar, full-width-template, theme-options, custom-colors, custom-background, translation-ready, rtl-language-support, threaded-comments, sticky-post, custom-logo, post-formats, blog, news, entertainment
 Requires at least: 4.3
-Tested up to: 4.7
-Stable tag: 4.7
+Tested up to: 4.7.3
+Stable tag: 4.7.3
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -130,6 +130,14 @@ with this program; if not, write to the Free Software Foundation, Inc.,
 1. 1. screenshot.png
 
 == Changelog ==
+
+### 1.1.4 - 4/20/2017
+
+Changes:
+
+- Updated the theme description
+- Updated the theme notice border color
+
 
 ### 1.1.3 - 3/17/2017
 

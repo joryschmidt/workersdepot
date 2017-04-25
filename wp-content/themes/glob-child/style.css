@@ -39,3 +39,22 @@ Nicolas Gallagher and Jonathan Neal http://necolas.github.com/normalize.css/
 .post-grid {
   width: 100%;
 }
+
+/* Store product styling */
+
+.wp-bc-product {
+  margin: 0 0 20px 0;
+  padding: 5px;
+  border: 1px solid black;
+}
+
+.wp-bc-product-name {
+  color: white;
+  padding: 2px;
+  margin: -5px;
+  background-color: black;
+}
+
+.wp-bc-product-image {
+  margin-top: 10px;
+}

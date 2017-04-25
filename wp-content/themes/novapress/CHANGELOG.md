@@ -1,3 +1,11 @@
+### 1.1.4 - 4/20/2017
+
+Changes:
+
+- Updated the theme description
+- Updated the theme notice border color
+
+
 ### 1.1.3 - 3/17/2017
 
 Changes:

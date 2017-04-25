@@ -22,6 +22,3 @@ Glob is a flexible, clean, simple responsive WordPress theme, perfect for any ne
 * Image use in screenshot: https://pixabay.com/en/phone-tablet-screen-mobile-smart-793046/. [CC0](https://creativecommons.org/publicdomain/zero/1.0/)
 * Image use in screenshot: https://www.pexels.com/photo/space-gray-iphone-6-showing-facebook-app-199497/. [CC0](https://creativecommons.org/publicdomain/zero/1.0/)
 * Image use in screenshot: https://www.pexels.com/photo/mobile-phone-apple-coffee-on-the-wooden-table-6455/. [CC0](https://creativecommons.org/publicdomain/zero/1.0/)
-== Changelog ==
-= 0.0.6 =
-* Theme Release

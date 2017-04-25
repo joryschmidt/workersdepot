@@ -241,7 +241,8 @@ if ( ! function_exists( 'glob_footer_site_info' ) ) {
             <div class="site-copyright">
                 <?php printf(esc_html__('Copyright %1$s %2$s %3$s', 'glob'), '&copy;', esc_attr(date_i18n(__('Y', 'glob'))), esc_attr(get_bloginfo())); ?>
                 <span class="sep"> &ndash; </span>
-                <?php printf(esc_html__('%1$s theme by %2$s', 'glob'), 'Glob', '<a href="' . esc_url('https://famethemes.com', 'glob') . '">FameThemes</a>'); ?>
+                <?php printf(esc_html__('%1$s Theme by %2$s', 'glob'), 'Glob', '<a href="' . esc_url('https://famethemes.com', 'glob') . '">FameThemes</a>'); ?>
+                <span> - Child Theme by Jory Schmidt</span>
             </div>
             <?php
         

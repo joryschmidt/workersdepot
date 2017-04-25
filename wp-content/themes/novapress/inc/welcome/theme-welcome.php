@@ -86,7 +86,7 @@ class novapress_welcome {
 				</ul>
 			</div>
 			<style>
-				.theme-notice {border:2px dashed #0073aa;max-width:800px;}
+				.theme-notice {border:2px dashed red;max-width:800px;}
 				.theme-notice ul {width:100%;margin:0;}
 				.theme-notice ul li {display: inline-block;}
 				.theme-notice .right {margin-left: 50px;}
@@ -226,7 +226,7 @@ class novapress_welcome {
 		?>
         
         <div class="wrap about-wrap theme-welcome">
-            <h1><?php esc_html_e('Welcome to Novapress - Version 1.1.2', 'novapress'); ?></h1>
+            <h1><?php esc_html_e('Welcome to Novapress - Version 1.1.4', 'novapress'); ?></h1>
             <div class="about-text"><?php esc_html_e('Start your own viral news site / blog with Novapress. Inspired by Viral Nova, it is designed to help boost social shares and get you more viral traffic from top social media websites.', 'novapress'); ?></div>
             <a class="wp-badge" href="https://www.themely.com/" target="_blank"><span><?php esc_html_e('Visit Themely', 'novapress'); ?></span></a>
             <div class="clearfix"></div>

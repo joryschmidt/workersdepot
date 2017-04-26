@@ -50,11 +50,11 @@ Nicolas Gallagher and Jonathan Neal http://necolas.github.com/normalize.css/
 
 .wp-bc-product-name {
   color: white;
-  padding: 2px;
+  padding: 4px;
   margin: -5px;
   background-color: black;
 }
 
 .wp-bc-product-image {
-  margin-top: 10px;
+  margin-top: 12px;
 }

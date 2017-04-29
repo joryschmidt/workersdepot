@@ -58,3 +58,27 @@ Nicolas Gallagher and Jonathan Neal http://necolas.github.com/normalize.css/
 .wp-bc-product-image {
   margin-top: 12px;
 }
+
+/* Forum styling */
+
+#bbpress-forums {
+  padding-top: 3px;
+}
+
+#subscription-toggle #subscribe-134 {
+  margin: 0 5px;
+}
+
+#subscription-toggle #subscribe-134 a {
+  padding: 2px 4px;
+  border-radius: 3px;
+  text-decoration: none;
+  font-weight: bold;
+  color: white;
+  background-color: #fa4c2a;
+  z-index: 2;
+}
+
+.bbp-author-role {
+  display: none;
+}

@@ -65,11 +65,11 @@ Nicolas Gallagher and Jonathan Neal http://necolas.github.com/normalize.css/
   padding-top: 3px;
 }
 
-.bbp-breadcrump #subscription-toggle {
+#bbpress-forums > #subscription-toggle {
   margin: 0 5px;
 }
 
-.bbp-breadcrump #subscription-toggle a {
+#bbpress-forums > #subscription-toggle a {
   padding: 2px 4px;
   border-radius: 3px;
   text-decoration: none;

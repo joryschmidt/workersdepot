@@ -30,39 +30,25 @@ get_header(); ?>
 				 ?>
 				<div class='left-articles'>
 			<?php
-			/* Probably not the most elegant solution, but it's a quick fix to get two independent columns*/
 			/* Start the Loop */
+			/* This code places the posts into two inpdependant columns based on the date order */
 				while (have_posts()) : the_post();
 				if ($wp_query->current_post % 2 == 0):
-				switch ( $homepage_layout ) {
-		 			case 'home1':
-		 				get_template_part( 'template-parts/content', 'list' );
-		 				break;
-		 			default:
-		 				get_template_part( 'template-parts/content', 'grid' );
-		 				break;
-		 		}
+		 			get_template_part( 'template-parts/content', 'grid' );
 		 		endif;
 		 		endwhile;
-		 		?>
+	 		?>
 		 		</div>
 		 		<div class='right-articles'>
-		 		<?php rewind_posts();
+	 		<?php rewind_posts();
 				while (have_posts()) : the_post();
 				if ($wp_query->current_post % 2 != 0):
-				switch ( $homepage_layout ) {
-		 			case 'home1':
-		 				get_template_part( 'template-parts/content', 'list' );
-		 				break;
-		 			default:
-		 				get_template_part( 'template-parts/content', 'grid' );
-		 				break;
-		 		}
+	 				get_template_part( 'template-parts/content', 'grid' );
 		 		endif; 
 		 		endwhile;
-		 		?>
+	 		?>
 		 		</div>
-		 		<?php
+	 		<?php
 		else :
 			get_template_part( 'template-parts/content', 'none' );
 		endif;
